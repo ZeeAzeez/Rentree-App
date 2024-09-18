@@ -9,10 +9,20 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@babel/plugin-transform-async-generator-functions": "^7.25.4",
+    "@babel/plugin-transform-class-properties": "^7.25.4",
+    "@babel/plugin-transform-logical-assignment-operators": "^7.24.7",
+    "@babel/plugin-transform-nullish-coalescing-operator": "^7.24.7",
+    "@babel/plugin-transform-numeric-separator": "^7.24.7",
+    "@babel/plugin-transform-object-rest-spread": "^7.24.7",
+    "@babel/plugin-transform-optional-catch-binding": "^7.24.7",
+    "@babel/plugin-transform-optional-chaining": "^7.24.8",
     "expo": "~51.0.28",
     "expo-status-bar": "~1.12.1",
+    "glob": "^9.3.5",
     "react": "18.2.0",
-    "react-native": "0.74.5"
+    "react-native": "0.74.5",
+    "rimraf": "^4.4.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
