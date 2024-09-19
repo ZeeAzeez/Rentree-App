@@ -4,10 +4,10 @@
     "slug": "Rentree-App",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/Logo-1-Rentree.png",
+    "icon": "../assets/images/Logo-1-Rentree.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/Logo-1-Rentree.png",
+      "image": "./assets/images/Logo-1-Rentree.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -16,12 +16,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/Logo-1-Rentree.png",
+        "foregroundImage": "./assets/images/Logo-1-Rentree.png",
         "backgroundColor": "#ffffff"
       }
     },
     "web": {
-      "favicon": "./assets/Logo-1-Rentree.png"
+      "favicon": "./assets/images/Logo-1-Rentree.png"
     }
   }
 }
